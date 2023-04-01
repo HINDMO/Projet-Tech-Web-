@@ -27,18 +27,16 @@ EatLikeALocal experiences are culinary activities such as dinners, cooking class
              <p>
              <br>
               The application will take you less than 10 minutes to complete. It will be reviewed by our team. If your experiences meet our quality standards, it will be approved and you can create your first experience and start hosting guests!
-Before you begin, we suggest you prepare:
 
-A photo of you in high quality
-At least 4 photos that best describe your experiences (photos of past events, dishes you prepare, setting the table, location, etc.)
                 
 
             </p>      
         </div> 
         <div class="container-button">
-            <button class="how_to_signup-btn">
+            <a href="hostregister.jsp"><button class="how_to_signup-btn">
                 Sign up to become a host
-            </button>
+            </button></a>
+            
             <b>
             </div>
             </div>

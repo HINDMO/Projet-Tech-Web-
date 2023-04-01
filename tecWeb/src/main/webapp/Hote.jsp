@@ -37,7 +37,8 @@
              </div>
           <div class="container-button">
             <a href="InscripHote.jsp"><button class="how_to_signup-btn">
-                Sign up to become a host
+                                become a host
+
             </button></a>
             </div>
             </div>

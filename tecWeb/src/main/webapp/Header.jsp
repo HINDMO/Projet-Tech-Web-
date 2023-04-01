@@ -10,10 +10,13 @@
             <a class="nav-link" href="Login.jsp">login<span class="sr-only"></span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Signup.jsp">Sign up</a>
+            <a class="nav-link" href="userregister.jsp">Sign up</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="Hote.jsp">Become a host</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="hostlogin.jsp">login as host</a>
           </li>
         </ul>
       </div>
